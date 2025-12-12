@@ -10,7 +10,6 @@
       display: flex; 
      flex-direction: column;
      padding: 10px;
-     gap: 20px; 
      
 }
 
@@ -19,7 +18,7 @@
     /* background-color: aqua; */
     display: flex;
     padding: 15px;
-    gap: 10px;
+    gap: 5px;
     flex-direction: column;
     border-bottom: 2px solid grey;
 
@@ -47,7 +46,6 @@
     /* background-color: grey; */
     display: flex;
     padding: 15px;
-    gap: 10px;
     flex-direction: column;
     border-bottom: 2px solid grey;
 }
@@ -57,7 +55,6 @@
     /* background-color: green; */
     display: flex;
     padding: 15px;
-    gap: 10px;
     flex-direction: column;
         border-bottom: 2px solid grey;
 
@@ -76,11 +73,11 @@
       display: flex;
     /* background-color: grey; */
     justify-content: center;
-       padding: 10px;
+       padding: 15px;
 }
 
 .qr-image img{
-    width: 15px;
+    width: 17px;
      filter: invert(1);
 }
 
